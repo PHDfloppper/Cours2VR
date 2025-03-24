@@ -1,0 +1,1 @@
+SI JAMAIS LES MANTTES NE MARCHE PAS, IL SUFFIT D'ALLER DANS: META XR TOOLS > PROJECT SETUP TOOL > APPLY ALL SUR "windows, mac, linux setting", "Android settings" ET "Universal windows platform setting"
